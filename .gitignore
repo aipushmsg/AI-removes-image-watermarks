@@ -1,0 +1,11 @@
+# 虚拟环境 / 模型 / 日志不入库
+.venv/
+venv/
+models/
+logs/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+*.log

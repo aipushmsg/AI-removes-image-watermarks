@@ -1,0 +1,9 @@
+# 运行 iopaint 服务所需的依赖已由 `pip install iopaint` 提供（含 fastapi/uvicorn/opencv/numpy/requests）
+# 这里只列出本服务额外需要的包，版本与本机 .venv 一致
+fastapi==0.108.0
+uvicorn==0.39.0
+python-multipart==0.0.20
+requests==2.32.5
+numpy==1.26.4
+opencv-python==4.11.0.86
+rapidocr-onnxruntime==1.4.4
